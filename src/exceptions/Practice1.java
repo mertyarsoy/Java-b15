@@ -1,12 +1,12 @@
 package exceptions;
 
 public class Practice1 {
-    public static void main(String[] args) {
+    public static void main(String args) {
 
 
         try {
 
-            System.out.println("************");
+            System.out.println();
             int number = 10;
 
             String str = "B15";
