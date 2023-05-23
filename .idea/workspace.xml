@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="7e134f4b-e47c-40c5-a0cd-b10de2d060b4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-b15/dass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-b15/fibonacci/Fibonnaci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-b15/fibonacci/Fibonnaci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fibonacci/Fibonnaci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fibonacci/Fibonnaci.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,14 +32,17 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.PrimeNumber">
+}]]></component>
+  <component name="RunManager" selected="Application.reverseStribng">
     <configuration name="Fibonnaci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fibonacci.Fibonnaci" />
       <module name="Java-b15" />
@@ -58,10 +63,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="reverseStribng" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reverseStribng" />
+      <module name="Java-b15" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.reverseStribng" />
         <item itemvalue="Application.Fibonnaci" />
+        <item itemvalue="Application.PrimeNumber" />
       </list>
     </recent_temporary>
   </component>

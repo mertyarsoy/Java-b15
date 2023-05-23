@@ -11,8 +11,8 @@ public class Fibonnaci {
 
     public static void fibonacci() {
         Scanner scanner = new Scanner(System.in);
-        int num = scanner.nextInt();
-        int num2 = scanner.nextInt();
+        System.out.println("Please input two numbers: ");
+        int num = scanner.nextInt(), num2 = scanner.nextInt();
 
 
         System.out.println("Please input the limit: ");
